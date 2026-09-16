@@ -1,11 +1,11 @@
 {
  "version": "2026-09-15.2",
  "file": "update_2026-09-15.2.enc",
- "url": "https://raw.githubusercontent.com/claudeevripidis-sudo/evripidis-updates/main/update_2026-09-15.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-15.2.enc",
  "size": 13527180,
- "sha256": "3daa542531eec9e7607396a5fec7c1d3b2752d9000fbcfc28c9c3d6c33597d58",
+ "sha256": "25408fed5689d9b9249eca60fa3bf870532b3aafa5b8d70bf1f4468dc192b465",
  "zip_size": 10145314,
  "zip_sha256": "bc2c32d9f3efc67c51a164bb7f8d544caa1a7c7d6931feb88a0b77bde474075f",
- "note": "",
- "published": "2026-09-15T15:55:14"
+ "note": "Διορθώθηκε σοβαρό σφάλμα: τα .bat δεν έβρισκαν τα αρχεία τους (ελληνικά ονόματα + σελίδα κωδικών κονσόλας) — έσπαγε ΚΑΙ η εκκίνηση ΚΑΙ οι ενημερώσεις, χωρίς μήνυμα. ΒΙΝΥΛΙΑ: κολοβά ονόματα μπάντας διορθώνονται στον τίτλο (BEATLES → THE BEATLES)· δύο καλλιτέχνες ενώνονται με «&», τρεις και πάνω γίνονται VARIOUS ARTISTS.",
+ "published": "2026-09-16T08:42:04"
 }
