@@ -1,11 +1,11 @@
 {
- "version": "2026-09-15.2",
- "file": "update_2026-09-15.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-15.2.enc",
- "size": 13527180,
- "sha256": "25408fed5689d9b9249eca60fa3bf870532b3aafa5b8d70bf1f4468dc192b465",
- "zip_size": 10145314,
- "zip_sha256": "bc2c32d9f3efc67c51a164bb7f8d544caa1a7c7d6931feb88a0b77bde474075f",
- "note": "Διορθώθηκε σοβαρό σφάλμα: τα .bat δεν έβρισκαν τα αρχεία τους (ελληνικά ονόματα + σελίδα κωδικών κονσόλας) — έσπαγε ΚΑΙ η εκκίνηση ΚΑΙ οι ενημερώσεις, χωρίς μήνυμα. ΒΙΝΥΛΙΑ: κολοβά ονόματα μπάντας διορθώνονται στον τίτλο (BEATLES → THE BEATLES)· δύο καλλιτέχνες ενώνονται με «&», τρεις και πάνω γίνονται VARIOUS ARTISTS.",
- "published": "2026-09-16T08:42:04"
+ "version": "2026-09-17",
+ "file": "update_2026-09-17.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.enc",
+ "size": 13728888,
+ "sha256": "1dd5aae79ff8f5196ebcde5cef5555d78cd09fb8acecc52adfb24b84c5753f9e",
+ "zip_size": 10296596,
+ "zip_sha256": "d9a3ede2f090b2ec21bc6dedbbbca7ea3305f6a05ca4271c9df4d7af00eb994d",
+ "note": "Βινύλια: επιλογή πηγής ανά πεδίο και ανά δίσκο, στοχευμένη αναζήτηση σε discogs/discobole/rarevinyl, ορατές διαφωνίες πηγών, πιο μαζεμένη καρτέλα",
+ "published": "2026-09-17T11:08:39"
 }
