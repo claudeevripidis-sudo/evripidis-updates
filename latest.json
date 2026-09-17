@@ -1,11 +1,11 @@
 {
- "version": "2026-09-17",
- "file": "update_2026-09-17.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.enc",
- "size": 13728888,
- "sha256": "1dd5aae79ff8f5196ebcde5cef5555d78cd09fb8acecc52adfb24b84c5753f9e",
- "zip_size": 10296596,
- "zip_sha256": "d9a3ede2f090b2ec21bc6dedbbbca7ea3305f6a05ca4271c9df4d7af00eb994d",
- "note": "Βινύλια: επιλογή πηγής ανά πεδίο και ανά δίσκο, στοχευμένη αναζήτηση σε discogs/discobole/rarevinyl, ορατές διαφωνίες πηγών, πιο μαζεμένη καρτέλα",
- "published": "2026-09-17T11:08:39"
+ "version": "2026-09-17.2",
+ "file": "update_2026-09-17.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.2.enc",
+ "size": 13623436,
+ "sha256": "d0c7a686f3bd306e289547c8396bad32c39e517827071e1d64fd724fcd009319",
+ "zip_size": 10217514,
+ "zip_sha256": "ab42520077fc1a463d532bcdcab81bafa061905e05c2ddafc23e75977ddddbc0",
+ "note": "ΔΙΟΡΘΩΣΗ: οι αυτόματες ενημερώσεις κατέβαιναν αλλά δεν άνοιγαν («No module named cryptography.fernet»). Ο έλεγχος έτρεχε μέσα στο ίδιο το πρόγραμμα, όπου η βιβλιοθήκη αποκρυπτογράφησης δεν υπάρχει· τώρα τρέχει στην ενσωματωμένη Python του φακέλου, που την έχει. Από εδώ και πέρα οι ενημερώσεις εφαρμόζονται μόνες τους.",
+ "published": "2026-09-17T15:15:47"
 }
