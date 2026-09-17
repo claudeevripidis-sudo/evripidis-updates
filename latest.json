@@ -1,11 +1,11 @@
 {
- "version": "2026-09-17.2",
- "file": "update_2026-09-17.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.2.enc",
- "size": 13930316,
- "sha256": "d72b50b88d39249097228aa37e4e5e394aae06dd21ee52b03dae4f50229ee686",
- "zip_size": 10447677,
- "zip_sha256": "5feccbd0897b9e0f0472c4a93b3a0f13ea99df3a387f84c3c3c6f5e64433e285",
- "note": "ΔΙΟΡΘΩΣΗ: οι αυτόματες ενημερώσεις κατέβαιναν αλλά δεν άνοιγαν («No module named cryptography.fernet»). Ο έλεγχος έτρεχε μέσα στο ίδιο το πρόγραμμα, όπου η βιβλιοθήκη αποκρυπτογράφησης δεν υπάρχει· τώρα τρέχει στην ενσωματωμένη Python του φακέλου. Περιλαμβάνει ΚΑΙ όσες ενημερώσεις δεν είχαν φτάσει: διορθωμένα .bat, βινύλια (ονόματα μπαντών, & / VARIOUS ARTISTS, επιλογή πηγής), νέους συλλογείς epbooks και pubeasy.",
- "published": "2026-09-17T15:20:49"
+ "version": "2026-09-17.3",
+ "file": "update_2026-09-17.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.3.enc",
+ "size": 13248440,
+ "sha256": "6e3fcb71fc0c8b0fc8506412cbe4c2a617f7e518d3f0ff7721ba27c5fe68c633",
+ "zip_size": 9936266,
+ "zip_sha256": "94e5582e72e419484e98e1c9b82401cfa31b0e895970ed09e7b5c0567271b609",
+ "note": "ΣΥΜΜΟΡΦΩΣΗ: το Pubeasy απενεργοποιήθηκε κατόπιν γραπτού αιτήματος του παρόχου — ο scraper του Gardners δεν το αγγίζει πια (χωριστό pubeasy_worker.py, opt-in μόνο). Οι τιμολογιακές βγαίνουν αποκλειστικά από την prom-lista, με διακόπτη για Gardners/Pubeasy στην καρτέλα UpdateItems.",
+ "published": "2026-09-17T15:57:34"
 }
