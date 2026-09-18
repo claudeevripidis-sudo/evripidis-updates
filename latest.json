@@ -1,11 +1,11 @@
 {
- "version": "2026-09-18.2",
- "file": "update_2026-09-18.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.2.enc",
- "size": 63999180,
- "sha256": "be7d41fa36d7a0a65523f32bacfa48879dc3bc4fc02ef58f48ef375f6fe19a1e",
- "zip_size": 47999316,
- "zip_sha256": "40e5c60697474bc3439b276da73887c6233953c3ba69ab604494d6757bcb34d0",
- "note": "Τιμολόγια Bertus σε PDF → ροή βινυλίων, με αριθμητικό έλεγχο",
- "published": "2026-09-18T12:50:18"
+ "version": "2026-09-18.3",
+ "file": "update_2026-09-18.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.3.enc",
+ "size": 64075960,
+ "sha256": "53ee6c9c922c3a7235c3b0bbe9bbee331daecabe7e6c259700a91804e5bf25ae",
+ "zip_size": 48056901,
+ "zip_sha256": "ad87a2bf569a037ecb51d5afa7be516992471198b9b60fc19d75a91fcd6f36a6",
+ "note": "Ευέλικτη αναγνώριση στηλών στις λίστες βινυλίων + προφίλ Sony εβδομάδας",
+ "published": "2026-09-18T16:20:30"
 }
