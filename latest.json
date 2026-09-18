@@ -1,11 +1,11 @@
 {
- "version": "2026-09-17.3",
- "file": "update_2026-09-17.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-17.3.enc",
- "size": 13248440,
- "sha256": "6e3fcb71fc0c8b0fc8506412cbe4c2a617f7e518d3f0ff7721ba27c5fe68c633",
- "zip_size": 9936266,
- "zip_sha256": "94e5582e72e419484e98e1c9b82401cfa31b0e895970ed09e7b5c0567271b609",
- "note": "ΣΥΜΜΟΡΦΩΣΗ: το Pubeasy απενεργοποιήθηκε κατόπιν γραπτού αιτήματος του παρόχου — ο scraper του Gardners δεν το αγγίζει πια (χωριστό pubeasy_worker.py, opt-in μόνο). Οι τιμολογιακές βγαίνουν αποκλειστικά από την prom-lista, με διακόπτη για Gardners/Pubeasy στην καρτέλα UpdateItems.",
- "published": "2026-09-17T15:57:34"
+ "version": "2026-09-18",
+ "file": "update_2026-09-18.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.enc",
+ "size": 63853580,
+ "sha256": "c7d574574721b887ea224feef63d6b1493900fe0424ada43f55d0e8079e639d4",
+ "zip_size": 47890121,
+ "zip_sha256": "ba651c2f66a215f7f1cddc66b2c849e207ac8328f83b99f9353745a2820deda7",
+ "note": "Pubeasy ανενεργό · σιωπηλές ειδοποιήσεις ενημέρωσης · πηγή ανά πεδίο στα βινύλια · Bertus",
+ "published": "2026-09-18T11:30:15"
 }
