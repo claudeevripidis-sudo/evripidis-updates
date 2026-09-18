@@ -1,11 +1,11 @@
 {
- "version": "2026-09-18",
- "file": "update_2026-09-18.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.enc",
- "size": 63865720,
- "sha256": "3995dcd7d53688dd84043d419b9eda7ecf8e2201d3fe4ec03ea158004363f444",
- "zip_size": 47899219,
- "zip_sha256": "1c2a644b5911ec05b0888f35b0a15ac99da5971b242b53a7aa4ecad030dfc3f8",
- "note": "Pubeasy ανενεργό · σιωπηλές ειδοποιήσεις ενημέρωσης · πηγή ανά πεδίο στα βινύλια · Bertus με αυτόματη λήψη browser",
- "published": "2026-09-18T11:42:40"
+ "version": "2026-09-18.2",
+ "file": "update_2026-09-18.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.2.enc",
+ "size": 63999180,
+ "sha256": "be7d41fa36d7a0a65523f32bacfa48879dc3bc4fc02ef58f48ef375f6fe19a1e",
+ "zip_size": 47999316,
+ "zip_sha256": "40e5c60697474bc3439b276da73887c6233953c3ba69ab604494d6757bcb34d0",
+ "note": "Τιμολόγια Bertus σε PDF → ροή βινυλίων, με αριθμητικό έλεγχο",
+ "published": "2026-09-18T12:50:18"
 }
