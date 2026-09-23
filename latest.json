@@ -1,11 +1,11 @@
 {
- "version": "2026-09-18.3",
- "file": "update_2026-09-18.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-18.3.enc",
- "size": 64075960,
- "sha256": "53ee6c9c922c3a7235c3b0bbe9bbee331daecabe7e6c259700a91804e5bf25ae",
- "zip_size": 48056901,
- "zip_sha256": "ad87a2bf569a037ecb51d5afa7be516992471198b9b60fc19d75a91fcd6f36a6",
- "note": "Ευέλικτη αναγνώριση στηλών στις λίστες βινυλίων + προφίλ Sony εβδομάδας",
- "published": "2026-09-18T16:20:30"
+ "version": "2026-09-23",
+ "file": "update_2026-09-23.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-23.enc",
+ "size": 64592524,
+ "sha256": "fa1d6e31099aba81b9378045f32fbc6fc7bd72b709468d31586c647495b00734",
+ "zip_size": 48444332,
+ "zip_sha256": "bbc7e23f2db85da1a618336fb56933831cc45279c74bc24467eb223fbda724e8",
+ "note": "Νέα μοντέλα AI + επιλογή μοντέλου/σκέψης παντού · jpc.de για βινύλια · Νέο βιβλίο χωρίς αρχείο · Express col2 · Γλώσσα Τσιγαρίδα από χώρα · Διόρθωση τίτλων FISHER PRICE · Κύρια πηγή εκδότη (οι τιμές του πλάνου υπερισχύουν) · Προέλευση πεδίων στη φόρμα · Scroll φόρμας",
+ "published": "2026-09-23T16:14:14"
 }
