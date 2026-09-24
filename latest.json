@@ -1,11 +1,11 @@
 {
- "version": "2026-09-24",
- "file": "update_2026-09-24.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-24.enc",
- "size": 64614456,
- "sha256": "78c9725ab495efcf2a69bb53f7fa88f70cc13c82996e5062c6b19183238dc9bd",
- "zip_size": 48460782,
- "zip_sha256": "b9b8bf5d91eca0f36041d0ed292d1bdd4513992cbd925a007470b660f86ea0a6",
- "note": "bookpoint: συγγραφέας ανά ρόλο (όχι επιμελητής, όλοι οι συγγραφείς) · Απλούστερη μπάρα (βασικά + μενού AI/Ρυθμίσεις) · Χειροκίνητα βιβλία φεύγουν μετά το build (εκτός «Κράτα») · Όλες οι τιμές κάθε πηγής στη φόρμα + κλικ στο σήμα για εναλλαγή · Συγγραφέας πάντα ελληνικά για ελληνικό προμηθευτή, και πολλοί συγγραφείς · Κύρια κατηγορία (col8) για περιοδικά · «Καθάρισε τα πάντα»",
- "published": "2026-09-24T13:37:12"
+ "version": "2026-09-24.2",
+ "file": "update_2026-09-24.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-24.2.enc",
+ "size": 64613732,
+ "sha256": "9a235c36d71d43da5d809df5e65b1c1a45de7c4cd90053365d94a78a5d82f8b6",
+ "zip_size": 48460234,
+ "zip_sha256": "243a3ce3255f4e5961962644755fd78acff15974769beca4d64899e54327a463",
+ "note": "Καταχώρηση: αφαιρέθηκε η μπάρα «Βιβλία» · οι επιλογές σε μία γραμμή (Φίλτρα ▾, Επιλογές ▾) · μοντέλο/σκέψη φαίνονται μόνο με «Χρήση AI»",
+ "published": "2026-09-24T14:03:45"
 }
