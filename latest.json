@@ -1,11 +1,11 @@
 {
- "version": "2026-09-24.2",
- "file": "update_2026-09-24.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-24.2.enc",
- "size": 64613732,
- "sha256": "9a235c36d71d43da5d809df5e65b1c1a45de7c4cd90053365d94a78a5d82f8b6",
- "zip_size": 48460234,
- "zip_sha256": "243a3ce3255f4e5961962644755fd78acff15974769beca4d64899e54327a463",
- "note": "Καταχώρηση: αφαιρέθηκε η μπάρα «Βιβλία» · οι επιλογές σε μία γραμμή (Φίλτρα ▾, Επιλογές ▾) · μοντέλο/σκέψη φαίνονται μόνο με «Χρήση AI»",
- "published": "2026-09-24T14:03:45"
+ "version": "2026-09-25",
+ "file": "update_2026-09-25.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.enc",
+ "size": 64657612,
+ "sha256": "d52ca079da8d78934bab5a6d5371064dd1c022b4668acc217d7a5e8bd20586ac",
+ "zip_size": 48493148,
+ "zip_sha256": "6686cdeb40dcbe7ea568ece2ee75a9c8a56bd6e50e652a3152105791d4fcc937",
+ "note": "World Books: νέο προφίλ (τίτλος, συγγραφέας, εκδότης WORLD BOOKS, τιμή καταλόγου, περιγραφή, μήνας έκδοσης) · Φόρμα «Συμπλήρωση πεδίων»: λίστα βιβλίων + ένα βιβλίο, χωρίς όριο · 🧩 Αντιστοίχιση στηλών Excel/CSV (δεξί κλικ στο αρχείο) · AI: fallback σε sonnet με προειδοποίηση (όχι σιωπηλά haiku) · Τσιγαρίδας: περιγραφή + ελληνικός προμηθευτής · Εκδότες: το ακριβές όνομα κερδίζει το παρόμοιο · Τιμοκατάλογοι 3 στηλών (ISBN/τίτλος/τιμή) αναγνωρίζονται",
+ "published": "2026-09-25T10:32:19"
 }
