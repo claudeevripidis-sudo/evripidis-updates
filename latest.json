@@ -1,11 +1,11 @@
 {
- "version": "2026-09-25",
- "file": "update_2026-09-25.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.enc",
- "size": 64657612,
- "sha256": "d52ca079da8d78934bab5a6d5371064dd1c022b4668acc217d7a5e8bd20586ac",
- "zip_size": 48493148,
- "zip_sha256": "6686cdeb40dcbe7ea568ece2ee75a9c8a56bd6e50e652a3152105791d4fcc937",
- "note": "World Books: νέο προφίλ (τίτλος, συγγραφέας, εκδότης WORLD BOOKS, τιμή καταλόγου, περιγραφή, μήνας έκδοσης) · Φόρμα «Συμπλήρωση πεδίων»: λίστα βιβλίων + ένα βιβλίο, χωρίς όριο · 🧩 Αντιστοίχιση στηλών Excel/CSV (δεξί κλικ στο αρχείο) · AI: fallback σε sonnet με προειδοποίηση (όχι σιωπηλά haiku) · Τσιγαρίδας: περιγραφή + ελληνικός προμηθευτής · Εκδότες: το ακριβές όνομα κερδίζει το παρόμοιο · Τιμοκατάλογοι 3 στηλών (ISBN/τίτλος/τιμή) αναγνωρίζονται",
- "published": "2026-09-25T10:32:19"
+ "version": "2026-09-25.2",
+ "file": "update_2026-09-25.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.2.enc",
+ "size": 64747812,
+ "sha256": "3d8fcb10c216ac8a5b397e3e348a3325bd15f7f8ffd4954938b6e9c8150f6d15",
+ "zip_size": 48560799,
+ "zip_sha256": "61490111bde1d14905a7c4a5c68d9a04e52c2a886e88ebec978bdb2e59ca733c",
+ "note": "Βινύλια: κωδικοί με μηδενικά (col2/col3), λεπτομέρειες τίτλου με checkbox, νέο πάνελ επεξεργασίας με scrape ανά πεδίο και προτάσεις ανά πηγή",
+ "published": "2026-09-25T15:43:31"
 }
