@@ -1,11 +1,11 @@
 {
- "version": "2026-09-25.2",
- "file": "update_2026-09-25.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.2.enc",
- "size": 64747812,
- "sha256": "3d8fcb10c216ac8a5b397e3e348a3325bd15f7f8ffd4954938b6e9c8150f6d15",
- "zip_size": 48560799,
- "zip_sha256": "61490111bde1d14905a7c4a5c68d9a04e52c2a886e88ebec978bdb2e59ca733c",
- "note": "Βινύλια: κωδικοί με μηδενικά (col2/col3), λεπτομέρειες τίτλου με checkbox, νέο πάνελ επεξεργασίας με scrape ανά πεδίο και προτάσεις ανά πηγή",
- "published": "2026-09-25T15:43:31"
+ "version": "2026-09-25.3",
+ "file": "update_2026-09-25.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.3.enc",
+ "size": 64786596,
+ "sha256": "88ae0567a831c64d00e0d85e0b74f9a04a5109f2580006967245df3ee4058e81",
+ "zip_size": 48589877,
+ "zip_sha256": "874bc990de82cb9b47238d35f0789b6884a4632045aeb9e5906bbbbcb66e0350",
+ "note": "Βινύλια: μαζική μεταβολή (Ctrl+A / δεξί κλικ), πάνελ με Αποθήκευση και καρτέλες, tooltips, πλοήγηση με PgUp/PgDn/βελάκια",
+ "published": "2026-09-25T16:20:59"
 }
