@@ -1,11 +1,11 @@
 {
- "version": "2026-09-25.3",
- "file": "update_2026-09-25.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-25.3.enc",
- "size": 64786596,
- "sha256": "88ae0567a831c64d00e0d85e0b74f9a04a5109f2580006967245df3ee4058e81",
- "zip_size": 48589877,
- "zip_sha256": "874bc990de82cb9b47238d35f0789b6884a4632045aeb9e5906bbbbcb66e0350",
- "note": "Βινύλια: μαζική μεταβολή (Ctrl+A / δεξί κλικ), πάνελ με Αποθήκευση και καρτέλες, tooltips, πλοήγηση με PgUp/PgDn/βελάκια",
- "published": "2026-09-25T16:20:59"
+ "version": "2026-09-28",
+ "file": "update_2026-09-28.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-28.enc",
+ "size": 64795192,
+ "sha256": "e2469a521e4b76049258701354404f29f1341df58a8b94d1d8721633f9aeec82",
+ "zip_size": 48596329,
+ "zip_sha256": "3f17cb3d761752ff2677e6917ec6b7bb71ee20b68d5cbf27009fca22024e9760",
+ "note": "Διάγνωση μοντέλου AI: αν το claude CLI δεν γνωρίζει το επιλεγμένο μοντέλο (π.χ. claude-opus-5-5) το λέει ρητά σε όλες τις καρτέλες και χρησιμοποιεί το νεότερο της ίδιας οικογένειας (opus) αντί για σιωπηλό sonnet. Μία εκτέλεση Κρίση+Build τη φορά (όχι διπλά ImportItems).",
+ "published": "2026-09-28T11:27:20"
 }
