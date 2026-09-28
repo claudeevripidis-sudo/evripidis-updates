@@ -1,11 +1,11 @@
 {
- "version": "2026-09-28",
- "file": "update_2026-09-28.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-28.enc",
- "size": 64795192,
- "sha256": "e2469a521e4b76049258701354404f29f1341df58a8b94d1d8721633f9aeec82",
- "zip_size": 48596329,
- "zip_sha256": "3f17cb3d761752ff2677e6917ec6b7bb71ee20b68d5cbf27009fca22024e9760",
- "note": "Διάγνωση μοντέλου AI: αν το claude CLI δεν γνωρίζει το επιλεγμένο μοντέλο (π.χ. claude-opus-5-5) το λέει ρητά σε όλες τις καρτέλες και χρησιμοποιεί το νεότερο της ίδιας οικογένειας (opus) αντί για σιωπηλό sonnet. Μία εκτέλεση Κρίση+Build τη φορά (όχι διπλά ImportItems).",
- "published": "2026-09-28T11:27:20"
+ "version": "2026-09-28.2",
+ "file": "update_2026-09-28.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-28.2.enc",
+ "size": 64839992,
+ "sha256": "abcf57420872e1a70c609e7df4dc86c4717720edc8b9f20a817520095b81b4bf",
+ "zip_size": 48629933,
+ "zip_sha256": "b954133f286451239f4f37610272acffb759afe11d63ad240a3eb55ffed9d020",
+ "note": "Βινύλια στη Γενική ροή UpdateItems: κουμπί «🎵 Scrape βινυλίων…» — από αρχείο Κωδ.Είδους+Barcode φέρνει Περιεχόμενα (Σχόλιο), ημ/νία, βάρος και εξώφυλλα (Discogs/jpc), γράφει αρχείο scraper και ανοίγει τον πίνακα σύγκρισης για Update_Items. Ως «ERP» δέχεται και σκέτη λίστα κωδικών.",
+ "published": "2026-09-28T14:30:04"
 }
