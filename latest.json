@@ -1,11 +1,11 @@
 {
- "version": "2026-09-28.2",
- "file": "update_2026-09-28.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-28.2.enc",
- "size": 64839992,
- "sha256": "abcf57420872e1a70c609e7df4dc86c4717720edc8b9f20a817520095b81b4bf",
- "zip_size": 48629933,
- "zip_sha256": "b954133f286451239f4f37610272acffb759afe11d63ad240a3eb55ffed9d020",
- "note": "Βινύλια στη Γενική ροή UpdateItems: κουμπί «🎵 Scrape βινυλίων…» — από αρχείο Κωδ.Είδους+Barcode φέρνει Περιεχόμενα (Σχόλιο), ημ/νία, βάρος και εξώφυλλα (Discogs/jpc), γράφει αρχείο scraper και ανοίγει τον πίνακα σύγκρισης για Update_Items. Ως «ERP» δέχεται και σκέτη λίστα κωδικών.",
- "published": "2026-09-28T14:30:04"
+ "version": "2026-09-28.3",
+ "file": "update_2026-09-28.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-28.3.enc",
+ "size": 64886668,
+ "sha256": "ae2dc865c8cc517d05a30eef031596438daf8d24a31e65e73d31df84a09a377a",
+ "zip_size": 48664932,
+ "zip_sha256": "18b338f0a7fa109773dc8e5c71d0b2d0489c8d95e6fc4716d91e273b5a4395ed",
+ "note": "UpdateItems: επιλογή ροής στην κορυφή (Gardners/Bookpoint | Γενική ροή), αριθμημένα βήματα, κοινές ρυθμίσεις και κοινό log. Βινύλια: επιλογή site (Discogs/jpc/discobole) ή όλα παράλληλα, μπάρες προόδου ανά site, πηγή ανά πεδίο, επεξεργασία τιμής με διπλό κλικ, εξώφυλλα ανά site με καταγραφή προέλευσης. Κύλιση: οριζόντια μπάρα πίνακα, ροδάκι παντού.",
+ "published": "2026-09-28T15:07:34"
 }
