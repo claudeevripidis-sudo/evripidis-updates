@@ -1,11 +1,11 @@
 {
- "version": "2026-09-30",
- "file": "update_2026-09-30.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-30.enc",
- "size": 65020556,
- "sha256": "bfc1b1eee1ef58f7fa9a7e725e870bf760ffdc8c62ffbb9ff06056c85ed27101",
- "zip_size": 48765351,
- "zip_sha256": "1bce771547eb73ce02fd43db1574d2fe5b22a19a07bd03a0e2a6d0466da7b1f3",
- "note": "Αλλαγή τιμών: επιλογή στηλών ISBN/τιμής, προτίμηση ΝΕΑΣ τιμής, το Price SKILLS μπαίνει πλέον στο πακέτο",
- "published": "2026-09-30T12:51:29"
+ "version": "2026-09-30.3",
+ "file": "update_2026-09-30.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-30.3.enc",
+ "size": 65041508,
+ "sha256": "9978c6ed35f7e862d7b947c712b4bbf1d670398a1622f0e32cbf6b3edf15371d",
+ "zip_size": 48781067,
+ "zip_sha256": "aefea000cc454d9a0a361b77de2176ea63921c8cc4856c16a86b28cc73219c21",
+ "note": "",
+ "published": "2026-09-30T13:43:12"
 }
