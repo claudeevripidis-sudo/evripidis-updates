@@ -1,11 +1,11 @@
 {
- "version": "2026-09-30.3",
- "file": "update_2026-09-30.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-09-30.3.enc",
- "size": 65041508,
- "sha256": "9978c6ed35f7e862d7b947c712b4bbf1d670398a1622f0e32cbf6b3edf15371d",
- "zip_size": 48781067,
- "zip_sha256": "aefea000cc454d9a0a361b77de2176ea63921c8cc4856c16a86b28cc73219c21",
- "note": "",
- "published": "2026-09-30T13:43:12"
+ "version": "2026-10-01",
+ "file": "update_2026-10-01.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-01.enc",
+ "size": 65077432,
+ "sha256": "394cb7488ab0db76f1a42175c57f6d174efda76361b9018f2c2e9e16c08784ac",
+ "zip_size": 48808015,
+ "zip_sha256": "27b9bfe72b2b072c6d73cf1499f7774be2bbc153383a5da247e8f287def56234",
+ "note": "Πρόταση τίτλου σειράς (ΣΕΙΡΑ 01 - ΤΙΤΛΟΣ) · εξώφυλλα από δελτία PDF (δισέλιδα/λογότυπα/τετράγωνα) · τιμή «ΜΕΙΟΝ ΦΠΑ» · σταντ εκτός · χαρτονένιες σελίδες = Καρτονέ",
+ "published": "2026-10-01T09:48:12"
 }
