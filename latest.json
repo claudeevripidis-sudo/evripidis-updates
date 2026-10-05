@@ -1,11 +1,11 @@
 {
- "version": "2026-10-01.2",
- "file": "update_2026-10-01.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-01.2.enc",
- "size": 65078008,
- "sha256": "281a6f76ad2d33802c7df998bbc26d7f053e4431f98c1232f0374b656312ae2b",
- "zip_size": 48808442,
- "zip_sha256": "3a4743d23c70242e3755ddb04d5da4a3b061cfb830b6430b5726346b6e5a3244",
- "note": "Νέο μοντέλο: claude-sonnet-5-5",
- "published": "2026-10-01T11:05:27"
+ "version": "2026-10-05",
+ "file": "update_2026-10-05.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.enc",
+ "size": 65099896,
+ "sha256": "502138ba3883201a724ee019c113b192545812c4206b015c2e5d3d14b813be8f",
+ "zip_size": 48824848,
+ "zip_sha256": "b6aaab51ea72ff2933b3fae9506963de3720f5403f36a85e596dc0d95c239cba",
+ "note": "Μικρός Ήρως: όλες οι εικόνες της γκαλερί ως {isbn}_1.._N.jpg (_1 = εξώφυλλο) + διόρθωση ταιριάσματος εικόνων με ελληνικά ονόματα στο mhtml",
+ "published": "2026-10-05T09:03:03"
 }
