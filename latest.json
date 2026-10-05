@@ -1,11 +1,11 @@
 {
- "version": "2026-10-05.2",
- "file": "update_2026-10-05.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.2.enc",
- "size": 65168612,
- "sha256": "226936b8432410c4a080d9d5d7134d70b3dddc099d973ab507e85ae3979c83ce",
- "zip_size": 48876390,
- "zip_sha256": "600c63e697e51e2def4f93e595fd8a443c3e1eb64291c7e889608f89c6b6bb9c",
- "note": "Βινύλια: αναγνώριση κοντινών αποχρώσεων κίτρινου/πράσινου (και χρώματα παλέτας) — πιθανές γραμμές για όσες είναι βαμμένες μόνο μέσα στον πίνακα",
- "published": "2026-10-05T12:22:52"
+ "version": "2026-10-05.3",
+ "file": "update_2026-10-05.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.3.enc",
+ "size": 65398604,
+ "sha256": "e4f386952d21dd118c9c619855b48edb7d906cd29a9bfc9738e480bd73df5a49",
+ "zip_size": 49048893,
+ "zip_sha256": "976d87538f978465ffca81e6e5538d2e97179099739e774c1ce87b631f9dbd49",
+ "note": "Βινύλια: κατηγορία/δέντρο από ERP, AI με genres πηγών και παραδείγματα, κωδικοί για αντιγραφή, διπλό κλικ στη λίστα, έλεγχος κενών, προσθήκη/φόρτωση batch, αυτόματη αποθήκευση, μάθηση genre",
+ "published": "2026-10-05T13:25:36"
 }
