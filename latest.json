@@ -1,11 +1,11 @@
 {
- "version": "2026-10-05",
- "file": "update_2026-10-05.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.enc",
- "size": 65099896,
- "sha256": "502138ba3883201a724ee019c113b192545812c4206b015c2e5d3d14b813be8f",
- "zip_size": 48824848,
- "zip_sha256": "b6aaab51ea72ff2933b3fae9506963de3720f5403f36a85e596dc0d95c239cba",
- "note": "Μικρός Ήρως: όλες οι εικόνες της γκαλερί ως {isbn}_1.._N.jpg (_1 = εξώφυλλο) + διόρθωση ταιριάσματος εικόνων με ελληνικά ονόματα στο mhtml",
- "published": "2026-10-05T09:03:03"
+ "version": "2026-10-05.2",
+ "file": "update_2026-10-05.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.2.enc",
+ "size": 65168612,
+ "sha256": "226936b8432410c4a080d9d5d7134d70b3dddc099d973ab507e85ae3979c83ce",
+ "zip_size": 48876390,
+ "zip_sha256": "600c63e697e51e2def4f93e595fd8a443c3e1eb64291c7e889608f89c6b6bb9c",
+ "note": "Βινύλια: αναγνώριση κοντινών αποχρώσεων κίτρινου/πράσινου (και χρώματα παλέτας) — πιθανές γραμμές για όσες είναι βαμμένες μόνο μέσα στον πίνακα",
+ "published": "2026-10-05T12:22:52"
 }
