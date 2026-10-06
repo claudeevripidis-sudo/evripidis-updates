@@ -1,11 +1,11 @@
 {
- "version": "2026-10-05.3",
- "file": "update_2026-10-05.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-05.3.enc",
- "size": 65398604,
- "sha256": "e4f386952d21dd118c9c619855b48edb7d906cd29a9bfc9738e480bd73df5a49",
- "zip_size": 49048893,
- "zip_sha256": "976d87538f978465ffca81e6e5538d2e97179099739e774c1ce87b631f9dbd49",
- "note": "Βινύλια: κατηγορία/δέντρο από ERP, AI με genres πηγών και παραδείγματα, κωδικοί για αντιγραφή, διπλό κλικ στη λίστα, έλεγχος κενών, προσθήκη/φόρτωση batch, αυτόματη αποθήκευση, μάθηση genre",
- "published": "2026-10-05T13:25:36"
+ "version": "2026-10-06",
+ "file": "update_2026-10-06.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-06.enc",
+ "size": 65401144,
+ "sha256": "890b74fbf0564461a1f0ed77668599aa5b7a48622414be6118092fc12e54227d",
+ "zip_size": 49050785,
+ "zip_sha256": "a21bcf8cc7082de28fabed78d7d7709919e03a5a0f589269fb1cff25439f8497",
+ "note": "bookpoint: εξώφυλλο+οπισθόφυλλο ως {isbn}_1/_2 (μία εικόνα = {isbn}.jpg)· ημ/νία 1ης έκδοσης: αναγραφόμενη > ενιαία τιμή −18 μήνες > σήμερα (πριν έμπαινε κομμάτι ISBN όπου υπήρχε σκέτο έτος)",
+ "published": "2026-10-06T08:44:20"
 }
