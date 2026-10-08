@@ -1,13 +1,13 @@
 {
- "version": "2026-10-06.2",
- "file": "update_2026-10-06.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-06.2.enc",
- "size": 65442828,
- "sha256": "1df0de6a7b84e9a6a8b260c09c42f69045508295b8486dfcd2ebe3d38f163ab2",
- "zip_size": 49082061,
- "zip_sha256": "f7c27d6359c1d39fbb70ebd7098bd73c21b146776deff088f32d72ed4dab2d01",
- "note": "Ένα παράθυρο για όλες τις ενημερώσεις · Brainfood/Πεδίο: σωστή ανάγνωση καταλόγων (ανατυπώσεις, δέσιμο, έτος, διαστάσεις, link) · όλες οι εικόνες από scrapers (_1.._N) · e-agyra: Άγκυρα/iScool σωστά · bookpoint: «ΤΙΤΛΟΣ - ΥΠΟΤΙΤΛΟΣ» με διακόπτη στη φόρμα",
- "published": "2026-10-06T15:50:21",
+ "version": "2026-10-08",
+ "file": "update_2026-10-08.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-08.enc",
+ "size": 65783844,
+ "sha256": "c8f1340672023a7a7930e078ef27434aee822eafa811dedba852bbb613f211ec",
+ "zip_size": 49337816,
+ "zip_sha256": "525a1c0e018853625e850f88b32ec5a9ea8c0a45f7b8d58a798e627a6ca1f3e5",
+ "note": "Adapter Εκδόσεις Αξία (ekdoseis-axia.gr)· αφαίρεση αόρατων χαρακτήρων U+200B· scraper Βιβλιοπωλείου Πατάκη (αποθηκευμένες σελίδες)· εξώφυλλα scrapers από σελίδες",
+ "published": "2026-10-08T09:36:17",
  "history": [
   {
    "version": "2026-10-05",
@@ -23,6 +23,11 @@
    "version": "2026-10-06.2",
    "note": "Ένα παράθυρο για όλες τις ενημερώσεις · Brainfood/Πεδίο: σωστή ανάγνωση καταλόγων (ανατυπώσεις, δέσιμο, έτος, διαστάσεις, link) · όλες οι εικόνες από scrapers (_1.._N) · e-agyra: Άγκυρα/iScool σωστά · bookpoint: «ΤΙΤΛΟΣ - ΥΠΟΤΙΤΛΟΣ» με διακόπτη στη φόρμα",
    "published": "2026-10-06T15:50:21"
+  },
+  {
+   "version": "2026-10-08",
+   "note": "Adapter Εκδόσεις Αξία (ekdoseis-axia.gr)· αφαίρεση αόρατων χαρακτήρων U+200B· scraper Βιβλιοπωλείου Πατάκη (αποθηκευμένες σελίδες)· εξώφυλλα scrapers από σελίδες",
+   "published": "2026-10-08T09:36:17"
   }
  ]
 }
