@@ -1,13 +1,13 @@
 {
- "version": "2026-10-08",
- "file": "update_2026-10-08.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-08.enc",
- "size": 65783844,
- "sha256": "c8f1340672023a7a7930e078ef27434aee822eafa811dedba852bbb613f211ec",
- "zip_size": 49337816,
- "zip_sha256": "525a1c0e018853625e850f88b32ec5a9ea8c0a45f7b8d58a798e627a6ca1f3e5",
- "note": "Adapter Εκδόσεις Αξία (ekdoseis-axia.gr)· αφαίρεση αόρατων χαρακτήρων U+200B· scraper Βιβλιοπωλείου Πατάκη (αποθηκευμένες σελίδες)· εξώφυλλα scrapers από σελίδες",
- "published": "2026-10-08T09:36:17",
+ "version": "2026-10-12",
+ "file": "update_2026-10-12.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.enc",
+ "size": 65957348,
+ "sha256": "b7f844f977db4030190fc421782a9b47078de4b132167533c802b300d7db6e64",
+ "zip_size": 49467941,
+ "zip_sha256": "b3dcd2d702fba45468de53be93554fd15dcdd0f6d1b33b54d44679fcf630035a",
+ "note": "Βινύλια: νέα «Ουρά βινυλίων» — ενιαία είσοδος (barcode/επικόλληση/αρχείο), φίλτρα κατάστασης, επεξεργαστής χωρίς «Αποθήκευση» με 🔒 ανά πεδίο και Ctrl+Z, επιλογή κοπής Discogs, διπλότυπα ERP/λίστας, παράλειψη ⛔ στην παραγωγή, μόνιμη cache αναζητήσεων",
+ "published": "2026-10-12T08:39:09",
  "history": [
   {
    "version": "2026-10-05",
@@ -28,6 +28,11 @@
    "version": "2026-10-08",
    "note": "Adapter Εκδόσεις Αξία (ekdoseis-axia.gr)· αφαίρεση αόρατων χαρακτήρων U+200B· scraper Βιβλιοπωλείου Πατάκη (αποθηκευμένες σελίδες)· εξώφυλλα scrapers από σελίδες",
    "published": "2026-10-08T09:36:17"
+  },
+  {
+   "version": "2026-10-12",
+   "note": "Βινύλια: νέα «Ουρά βινυλίων» — ενιαία είσοδος (barcode/επικόλληση/αρχείο), φίλτρα κατάστασης, επεξεργαστής χωρίς «Αποθήκευση» με 🔒 ανά πεδίο και Ctrl+Z, επιλογή κοπής Discogs, διπλότυπα ERP/λίστας, παράλειψη ⛔ στην παραγωγή, μόνιμη cache αναζητήσεων",
+   "published": "2026-10-12T08:39:09"
   }
  ]
 }
