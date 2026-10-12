@@ -1,13 +1,13 @@
 {
- "version": "2026-10-12.2",
- "file": "update_2026-10-12.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.2.enc",
- "size": 66002788,
- "sha256": "4b3b15e3022f72324d120ee9a7aa187cfd16b07792f3cecd173bfe9be42d4efa",
- "zip_size": 49502026,
- "zip_sha256": "720d1b46c317e8a4f2d75a7e010fea027b0daaaf5e6635fad6ed0610bcd2255a",
- "note": "Βινύλια v2: η ουρά πιάνει όλη την οθόνη (επεξεργαστής ανοίγει με Enter/διπλό κλικ, κλείνει με Esc), λωρίδα ΘΕΜΑΤΑ για μαζική διόρθωση ανά είδος, γρήγορη διόρθωση από το κελί «Θέμα», «Ρώτα ΟΛΑ τα sites — μόνο προτάσεις», παράλληλες αναζητήσεις ανά site",
- "published": "2026-10-12T09:16:37",
+ "version": "2026-10-12.3",
+ "file": "update_2026-10-12.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.3.enc",
+ "size": 66011320,
+ "sha256": "2f8a19fa032a87495c3fce4bc404fbba699640e2807f884abcb2cfaf187f83a2",
+ "zip_size": 49508429,
+ "zip_sha256": "9bbf6c34a3739ba2067c9a7aea77a046e6aee4b8a67ea81e6cc514588f65c8b3",
+ "note": "Βινύλια: διόρθωση popover που δεν έκλεινε (label), 🔍 αναζήτηση πεδίου μέσα στο popover, Ctrl+A σε όλους τους πίνακες όλων των καρτελών (και με ελληνικό πληκτρολόγιο)",
+ "published": "2026-10-12T09:31:08",
  "history": [
   {
    "version": "2026-10-05",
@@ -38,6 +38,11 @@
    "version": "2026-10-12.2",
    "note": "Βινύλια v2: η ουρά πιάνει όλη την οθόνη (επεξεργαστής ανοίγει με Enter/διπλό κλικ, κλείνει με Esc), λωρίδα ΘΕΜΑΤΑ για μαζική διόρθωση ανά είδος, γρήγορη διόρθωση από το κελί «Θέμα», «Ρώτα ΟΛΑ τα sites — μόνο προτάσεις», παράλληλες αναζητήσεις ανά site",
    "published": "2026-10-12T09:16:37"
+  },
+  {
+   "version": "2026-10-12.3",
+   "note": "Βινύλια: διόρθωση popover που δεν έκλεινε (label), 🔍 αναζήτηση πεδίου μέσα στο popover, Ctrl+A σε όλους τους πίνακες όλων των καρτελών (και με ελληνικό πληκτρολόγιο)",
+   "published": "2026-10-12T09:31:08"
   }
  ]
 }
