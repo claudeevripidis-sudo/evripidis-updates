@@ -1,13 +1,13 @@
 {
- "version": "2026-10-12.3",
- "file": "update_2026-10-12.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.3.enc",
- "size": 66011320,
- "sha256": "2f8a19fa032a87495c3fce4bc404fbba699640e2807f884abcb2cfaf187f83a2",
- "zip_size": 49508429,
- "zip_sha256": "9bbf6c34a3739ba2067c9a7aea77a046e6aee4b8a67ea81e6cc514588f65c8b3",
- "note": "Βινύλια: διόρθωση popover που δεν έκλεινε (label), 🔍 αναζήτηση πεδίου μέσα στο popover, Ctrl+A σε όλους τους πίνακες όλων των καρτελών (και με ελληνικό πληκτρολόγιο)",
- "published": "2026-10-12T09:31:08",
+ "version": "2026-10-12.4",
+ "file": "update_2026-10-12.4.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.4.enc",
+ "size": 66009956,
+ "sha256": "4db83d5417bcc542de2d3bfd85869858e5704aaa0ddc71f39d9256123ee4df45",
+ "zip_size": 49507398,
+ "zip_sha256": "57648dee888ae114106bf3d7aaa3f98a07a9b3e602c36edb3d3c074844596aef",
+ "note": "Καταχώρηση βιβλίων: το «Τι προσθέτω» ισχύει μόνο για νέα αρχεία (υπάρχοντα: δεξί κλικ → Τύπος), 📄 Διπλότυπο και 🗑 Διαγραφή βιβλίου στη φόρμα επεξεργασίας",
+ "published": "2026-10-12T12:06:10",
  "history": [
   {
    "version": "2026-10-05",
@@ -43,6 +43,11 @@
    "version": "2026-10-12.3",
    "note": "Βινύλια: διόρθωση popover που δεν έκλεινε (label), 🔍 αναζήτηση πεδίου μέσα στο popover, Ctrl+A σε όλους τους πίνακες όλων των καρτελών (και με ελληνικό πληκτρολόγιο)",
    "published": "2026-10-12T09:31:08"
+  },
+  {
+   "version": "2026-10-12.4",
+   "note": "Καταχώρηση βιβλίων: το «Τι προσθέτω» ισχύει μόνο για νέα αρχεία (υπάρχοντα: δεξί κλικ → Τύπος), 📄 Διπλότυπο και 🗑 Διαγραφή βιβλίου στη φόρμα επεξεργασίας",
+   "published": "2026-10-12T12:06:10"
   }
  ]
 }
