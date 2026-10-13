@@ -1,13 +1,13 @@
 {
- "version": "2026-10-12.4",
- "file": "update_2026-10-12.4.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-12.4.enc",
- "size": 66009956,
- "sha256": "4db83d5417bcc542de2d3bfd85869858e5704aaa0ddc71f39d9256123ee4df45",
- "zip_size": 49507398,
- "zip_sha256": "57648dee888ae114106bf3d7aaa3f98a07a9b3e602c36edb3d3c074844596aef",
- "note": "Καταχώρηση βιβλίων: το «Τι προσθέτω» ισχύει μόνο για νέα αρχεία (υπάρχοντα: δεξί κλικ → Τύπος), 📄 Διπλότυπο και 🗑 Διαγραφή βιβλίου στη φόρμα επεξεργασίας",
- "published": "2026-10-12T12:06:10",
+ "version": "2026-10-13",
+ "file": "update_2026-10-13.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-13.enc",
+ "size": 68164856,
+ "sha256": "0aa9d58006b51949d0d57269719e3dc6f25adab1901291ed7675ddfbdfa62e99",
+ "zip_size": 51123575,
+ "zip_sha256": "63b937defcb1ef70cf779b8d0b6f6d2154660571bff6bb41cf1101994ac9308c",
+ "note": "Φόρμα καταχώρησης χωρίς πάγωμα σε μεγάλα batch · ⚙ ρυθμίσεις (prom-lista, εξώφυλλα, AI, φάκελοι, διάγνωση) · σιωπηλή ενημέρωση prom-lista πριν το build · ενημερώσεις χωρίς pop-ups · σωστότερα Παραμύθια/Παιδική λογοτεχνία",
+ "published": "2026-10-13T11:46:55",
  "history": [
   {
    "version": "2026-10-05",
@@ -48,6 +48,11 @@
    "version": "2026-10-12.4",
    "note": "Καταχώρηση βιβλίων: το «Τι προσθέτω» ισχύει μόνο για νέα αρχεία (υπάρχοντα: δεξί κλικ → Τύπος), 📄 Διπλότυπο και 🗑 Διαγραφή βιβλίου στη φόρμα επεξεργασίας",
    "published": "2026-10-12T12:06:10"
+  },
+  {
+   "version": "2026-10-13",
+   "note": "Φόρμα καταχώρησης χωρίς πάγωμα σε μεγάλα batch · ⚙ ρυθμίσεις (prom-lista, εξώφυλλα, AI, φάκελοι, διάγνωση) · σιωπηλή ενημέρωση prom-lista πριν το build · ενημερώσεις χωρίς pop-ups · σωστότερα Παραμύθια/Παιδική λογοτεχνία",
+   "published": "2026-10-13T11:46:55"
   }
  ]
 }
