@@ -1,13 +1,13 @@
 {
- "version": "2026-10-13",
- "file": "update_2026-10-13.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-13.enc",
- "size": 68164856,
- "sha256": "0aa9d58006b51949d0d57269719e3dc6f25adab1901291ed7675ddfbdfa62e99",
- "zip_size": 51123575,
- "zip_sha256": "63b937defcb1ef70cf779b8d0b6f6d2154660571bff6bb41cf1101994ac9308c",
- "note": "Φόρμα καταχώρησης χωρίς πάγωμα σε μεγάλα batch · ⚙ ρυθμίσεις (prom-lista, εξώφυλλα, AI, φάκελοι, διάγνωση) · σιωπηλή ενημέρωση prom-lista πριν το build · ενημερώσεις χωρίς pop-ups · σωστότερα Παραμύθια/Παιδική λογοτεχνία",
- "published": "2026-10-13T11:46:55",
+ "version": "2026-10-14",
+ "file": "update_2026-10-14.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-14.enc",
+ "size": 70923832,
+ "sha256": "49d3869831b6daf67e414ecdfe6f981b8a2e86cb30033a7d751d61195e43803c",
+ "zip_size": 53192801,
+ "zip_sha256": "842247fc353985f9c3777a978850f1dba5704b9f42316764e2b25baa374cee37",
+ "note": "Κρίση AI: 🧠 ανά πεδίο & όλη η εγγραφή σε βινύλια/βιβλία, login popup με «Δοκίμασε ξανά», ⛶ σε όλα τα pop-ups, μετακινούμενο popover γρήγορης διόρθωσης. Παραδείγματα ERP, σύντομη λίστα κατηγοριών, τεκμήρια, μάθηση από διορθώσεις· prompt ~37% μικρότερο.",
+ "published": "2026-10-14T12:47:03",
  "history": [
   {
    "version": "2026-10-05",
@@ -53,6 +53,11 @@
    "version": "2026-10-13",
    "note": "Φόρμα καταχώρησης χωρίς πάγωμα σε μεγάλα batch · ⚙ ρυθμίσεις (prom-lista, εξώφυλλα, AI, φάκελοι, διάγνωση) · σιωπηλή ενημέρωση prom-lista πριν το build · ενημερώσεις χωρίς pop-ups · σωστότερα Παραμύθια/Παιδική λογοτεχνία",
    "published": "2026-10-13T11:46:55"
+  },
+  {
+   "version": "2026-10-14",
+   "note": "Κρίση AI: 🧠 ανά πεδίο & όλη η εγγραφή σε βινύλια/βιβλία, login popup με «Δοκίμασε ξανά», ⛶ σε όλα τα pop-ups, μετακινούμενο popover γρήγορης διόρθωσης. Παραδείγματα ERP, σύντομη λίστα κατηγοριών, τεκμήρια, μάθηση από διορθώσεις· prompt ~37% μικρότερο.",
+   "published": "2026-10-14T12:47:03"
   }
  ]
 }
