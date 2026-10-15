@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15.3",
- "file": "update_2026-10-15.3.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.3.enc",
- "size": 71148600,
- "sha256": "d474855fffade970e2e6a65dcf1d7c56e54c2451ebb015c5f2355afdb6a5b9ff",
- "zip_size": 53361380,
- "zip_sha256": "2091c7d41e7f8c0d4d7c7c2215ab32d4d76f4f3f29c42104b5e06fc3ae879d95",
- "note": "«📥 Για εισαγωγή» μετά το ERP export με αναζήτηση bookpoint (λογότυπο ανά βιβλίο/μαζικά) · πρόταση «🔎 site εκδότη» για βιβλία με κενά · βινύλια: barcode ανά label μόλις φορτωθεί η λίστα · ενιαίο «⚙ Ρυθμίσεις» στην Καταχώρηση, barcode σε παράθυρο σε κάθε καρτέλα",
- "published": "2026-10-15T12:27:54",
+ "version": "2026-10-15.4",
+ "file": "update_2026-10-15.4.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.4.enc",
+ "size": 71228280,
+ "sha256": "e607b856c3f7a3b31d77c901a8ad4d13c344c86f639c0cb40647c64ba4d71c34",
+ "zip_size": 53421149,
+ "zip_sha256": "4d824d15a96bb33461522b68cbfa029d408603c80354b501d63044293e32b39d",
+ "note": "Βινύλια: νέα αυτόματη πηγή Juno (label, genre, χρώμα, ημερομηνία, tracklist) και Townsend μέσω βοηθού Chrome (ένα κλικ για όλη την παρτίδα)",
+ "published": "2026-10-15T14:30:34",
  "history": [
   {
    "version": "2026-10-05",
@@ -83,6 +83,11 @@
    "version": "2026-10-15.3",
    "note": "«📥 Για εισαγωγή» μετά το ERP export με αναζήτηση bookpoint (λογότυπο ανά βιβλίο/μαζικά) · πρόταση «🔎 site εκδότη» για βιβλία με κενά · βινύλια: barcode ανά label μόλις φορτωθεί η λίστα · ενιαίο «⚙ Ρυθμίσεις» στην Καταχώρηση, barcode σε παράθυρο σε κάθε καρτέλα",
    "published": "2026-10-15T12:27:54"
+  },
+  {
+   "version": "2026-10-15.4",
+   "note": "Βινύλια: νέα αυτόματη πηγή Juno (label, genre, χρώμα, ημερομηνία, tracklist) και Townsend μέσω βοηθού Chrome (ένα κλικ για όλη την παρτίδα)",
+   "published": "2026-10-15T14:30:34"
   }
  ]
 }
