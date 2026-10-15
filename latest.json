@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15",
- "file": "update_2026-10-15.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.enc",
- "size": 71066636,
- "sha256": "22a36058954a3e4bae3086d602ca84e5d35870f3cb3dceb103f314abf0115e69",
- "zip_size": 53299915,
- "zip_sha256": "450f132bc6d0b6973096cf9d506f942e979dac5c36618fec884205d4ac8bcf5e",
- "note": "Barcode ανά εκδότη σε κάθε καρτέλα (copy-paste για ERP) · ERP export → εξαίρεση κοινών βιβλίων/βινυλίων με αναίρεση · ISBN παρτίδας πριν τον επεξεργαστή · σειρές παιδικών: εγγραφή στο «Σειρές Παιδικών Βιβλίων» μετά το build · prom-lista σειρές σε αλφαβητική θέση με σωστά χρώματα",
- "published": "2026-10-15T09:53:06",
+ "version": "2026-10-15.2",
+ "file": "update_2026-10-15.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.2.enc",
+ "size": 71085260,
+ "sha256": "09cb08432fa4ca2e845a1a041f63fea5a73bbb13c70ba2d8cb76818f546c203f",
+ "zip_size": 53313880,
+ "zip_sha256": "6b88a705328c8722291653d268cb50e799d092b8fae6f19ed51f16ca0828d3dd",
+ "note": "ERP export: πιάνει barcode σε κάθε μορφή και στήλη (UPC 12ψήφιο, χαμένα μηδενικά, λίστες Sony με ανακατεμένες στήλες) · scraper Τσιγαρίδα: κωδικοί σε τοπικό αρχείο",
+ "published": "2026-10-15T11:21:44",
  "history": [
   {
    "version": "2026-10-05",
@@ -73,6 +73,11 @@
    "version": "2026-10-15",
    "note": "Barcode ανά εκδότη σε κάθε καρτέλα (copy-paste για ERP) · ERP export → εξαίρεση κοινών βιβλίων/βινυλίων με αναίρεση · ISBN παρτίδας πριν τον επεξεργαστή · σειρές παιδικών: εγγραφή στο «Σειρές Παιδικών Βιβλίων» μετά το build · prom-lista σειρές σε αλφαβητική θέση με σωστά χρώματα",
    "published": "2026-10-15T09:53:06"
+  },
+  {
+   "version": "2026-10-15.2",
+   "note": "ERP export: πιάνει barcode σε κάθε μορφή και στήλη (UPC 12ψήφιο, χαμένα μηδενικά, λίστες Sony με ανακατεμένες στήλες) · scraper Τσιγαρίδα: κωδικοί σε τοπικό αρχείο",
+   "published": "2026-10-15T11:21:44"
   }
  ]
 }
