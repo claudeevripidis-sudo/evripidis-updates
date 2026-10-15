@@ -1,13 +1,13 @@
 {
- "version": "2026-10-14.4",
- "file": "update_2026-10-14.4.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-14.4.enc",
- "size": 70932792,
- "sha256": "da7980594fbdc074f6eb0f72d975fcb34bb58cb15685b16ac03414bcc87c1f0f",
- "zip_size": 53199528,
- "zip_sha256": "294fb630acf16b7e4766a06eafc3e12305d91474b559bdbf58c6dd0409710bec",
- "note": "Ξενόγλωσσα εκπαιδευτικά (ELT/DELF κ.λπ.) παίρνουν πλέον σωστή κατηγορία (ελληνικό δέντρο, π.χ. Εκμάθηση γαλλικών) και κωδικό· βρετανικά σχολικά μένουν School books. Τεκμήριο AI μόνο για την κατηγορία (λιγότερο κόστος).",
- "published": "2026-10-14T14:47:34",
+ "version": "2026-10-15",
+ "file": "update_2026-10-15.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.enc",
+ "size": 71066636,
+ "sha256": "22a36058954a3e4bae3086d602ca84e5d35870f3cb3dceb103f314abf0115e69",
+ "zip_size": 53299915,
+ "zip_sha256": "450f132bc6d0b6973096cf9d506f942e979dac5c36618fec884205d4ac8bcf5e",
+ "note": "Barcode ανά εκδότη σε κάθε καρτέλα (copy-paste για ERP) · ERP export → εξαίρεση κοινών βιβλίων/βινυλίων με αναίρεση · ISBN παρτίδας πριν τον επεξεργαστή · σειρές παιδικών: εγγραφή στο «Σειρές Παιδικών Βιβλίων» μετά το build · prom-lista σειρές σε αλφαβητική θέση με σωστά χρώματα",
+ "published": "2026-10-15T09:53:06",
  "history": [
   {
    "version": "2026-10-05",
@@ -68,6 +68,11 @@
    "version": "2026-10-14.4",
    "note": "Ξενόγλωσσα εκπαιδευτικά (ELT/DELF κ.λπ.) παίρνουν πλέον σωστή κατηγορία (ελληνικό δέντρο, π.χ. Εκμάθηση γαλλικών) και κωδικό· βρετανικά σχολικά μένουν School books. Τεκμήριο AI μόνο για την κατηγορία (λιγότερο κόστος).",
    "published": "2026-10-14T14:47:34"
+  },
+  {
+   "version": "2026-10-15",
+   "note": "Barcode ανά εκδότη σε κάθε καρτέλα (copy-paste για ERP) · ERP export → εξαίρεση κοινών βιβλίων/βινυλίων με αναίρεση · ISBN παρτίδας πριν τον επεξεργαστή · σειρές παιδικών: εγγραφή στο «Σειρές Παιδικών Βιβλίων» μετά το build · prom-lista σειρές σε αλφαβητική θέση με σωστά χρώματα",
+   "published": "2026-10-15T09:53:06"
   }
  ]
 }
