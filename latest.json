@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15.4",
- "file": "update_2026-10-15.4.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.4.enc",
- "size": 71228280,
- "sha256": "e607b856c3f7a3b31d77c901a8ad4d13c344c86f639c0cb40647c64ba4d71c34",
- "zip_size": 53421149,
- "zip_sha256": "4d824d15a96bb33461522b68cbfa029d408603c80354b501d63044293e32b39d",
- "note": "Βινύλια: νέα αυτόματη πηγή Juno (label, genre, χρώμα, ημερομηνία, tracklist) και Townsend μέσω βοηθού Chrome (ένα κλικ για όλη την παρτίδα)",
- "published": "2026-10-15T14:30:34",
+ "version": "2026-10-15.5",
+ "file": "update_2026-10-15.5.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.5.enc",
+ "size": 71231544,
+ "sha256": "46c6f3f301b1ad287ff35f029d98331e6ba7cc58b5d49a82bbf89a2af1b015d6",
+ "zip_size": 53423590,
+ "zip_sha256": "0f88419226c9bfe2079c1f443b9d84f926f515c8f8bcab4145aaad861c026e7f",
+ "note": "Βινύλια: Townsend από κάθε αναζήτηση (▾, ⟳ Πηγές, 🔍) και checklist «Πάρε προτάσεις πηγών» με όλα τα πεδία",
+ "published": "2026-10-15T15:04:49",
  "history": [
   {
    "version": "2026-10-05",
@@ -88,6 +88,11 @@
    "version": "2026-10-15.4",
    "note": "Βινύλια: νέα αυτόματη πηγή Juno (label, genre, χρώμα, ημερομηνία, tracklist) και Townsend μέσω βοηθού Chrome (ένα κλικ για όλη την παρτίδα)",
    "published": "2026-10-15T14:30:34"
+  },
+  {
+   "version": "2026-10-15.5",
+   "note": "Βινύλια: Townsend από κάθε αναζήτηση (▾, ⟳ Πηγές, 🔍) και checklist «Πάρε προτάσεις πηγών» με όλα τα πεδία",
+   "published": "2026-10-15T15:04:49"
   }
  ]
 }
