@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15.2",
- "file": "update_2026-10-15.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.2.enc",
- "size": 71085260,
- "sha256": "09cb08432fa4ca2e845a1a041f63fea5a73bbb13c70ba2d8cb76818f546c203f",
- "zip_size": 53313880,
- "zip_sha256": "6b88a705328c8722291653d268cb50e799d092b8fae6f19ed51f16ca0828d3dd",
- "note": "ERP export: πιάνει barcode σε κάθε μορφή και στήλη (UPC 12ψήφιο, χαμένα μηδενικά, λίστες Sony με ανακατεμένες στήλες) · scraper Τσιγαρίδα: κωδικοί σε τοπικό αρχείο",
- "published": "2026-10-15T11:21:44",
+ "version": "2026-10-15.3",
+ "file": "update_2026-10-15.3.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.3.enc",
+ "size": 71148600,
+ "sha256": "d474855fffade970e2e6a65dcf1d7c56e54c2451ebb015c5f2355afdb6a5b9ff",
+ "zip_size": 53361380,
+ "zip_sha256": "2091c7d41e7f8c0d4d7c7c2215ab32d4d76f4f3f29c42104b5e06fc3ae879d95",
+ "note": "«📥 Για εισαγωγή» μετά το ERP export με αναζήτηση bookpoint (λογότυπο ανά βιβλίο/μαζικά) · πρόταση «🔎 site εκδότη» για βιβλία με κενά · βινύλια: barcode ανά label μόλις φορτωθεί η λίστα · ενιαίο «⚙ Ρυθμίσεις» στην Καταχώρηση, barcode σε παράθυρο σε κάθε καρτέλα",
+ "published": "2026-10-15T12:27:54",
  "history": [
   {
    "version": "2026-10-05",
@@ -78,6 +78,11 @@
    "version": "2026-10-15.2",
    "note": "ERP export: πιάνει barcode σε κάθε μορφή και στήλη (UPC 12ψήφιο, χαμένα μηδενικά, λίστες Sony με ανακατεμένες στήλες) · scraper Τσιγαρίδα: κωδικοί σε τοπικό αρχείο",
    "published": "2026-10-15T11:21:44"
+  },
+  {
+   "version": "2026-10-15.3",
+   "note": "«📥 Για εισαγωγή» μετά το ERP export με αναζήτηση bookpoint (λογότυπο ανά βιβλίο/μαζικά) · πρόταση «🔎 site εκδότη» για βιβλία με κενά · βινύλια: barcode ανά label μόλις φορτωθεί η λίστα · ενιαίο «⚙ Ρυθμίσεις» στην Καταχώρηση, barcode σε παράθυρο σε κάθε καρτέλα",
+   "published": "2026-10-15T12:27:54"
   }
  ]
 }
