@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15.5",
- "file": "update_2026-10-15.5.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.5.enc",
- "size": 71231544,
- "sha256": "46c6f3f301b1ad287ff35f029d98331e6ba7cc58b5d49a82bbf89a2af1b015d6",
- "zip_size": 53423590,
- "zip_sha256": "0f88419226c9bfe2079c1f443b9d84f926f515c8f8bcab4145aaad861c026e7f",
- "note": "Βινύλια: Townsend από κάθε αναζήτηση (▾, ⟳ Πηγές, 🔍) και checklist «Πάρε προτάσεις πηγών» με όλα τα πεδία",
- "published": "2026-10-15T15:04:49",
+ "version": "2026-10-15.6",
+ "file": "update_2026-10-15.6.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.6.enc",
+ "size": 71237220,
+ "sha256": "0bb5865858d205dee696d2e15e2c99726410e9f1fab5833ce4af57701bed186b",
+ "zip_size": 53427848,
+ "zip_sha256": "fe35318e51d5569bc6d1cf31b145ae6529f1af66d5ba9d2fe096f200112ab582",
+ "note": "Φόρμα βιβλίου: επιλογή οποιουδήποτε scraper + Αναζήτηση (και με κενό εκδότη) · viewer barcode: highlight γραμμής και ομάδες ανά αρχείο",
+ "published": "2026-10-15T15:32:56",
  "history": [
   {
    "version": "2026-10-05",
@@ -93,6 +93,11 @@
    "version": "2026-10-15.5",
    "note": "Βινύλια: Townsend από κάθε αναζήτηση (▾, ⟳ Πηγές, 🔍) και checklist «Πάρε προτάσεις πηγών» με όλα τα πεδία",
    "published": "2026-10-15T15:04:49"
+  },
+  {
+   "version": "2026-10-15.6",
+   "note": "Φόρμα βιβλίου: επιλογή οποιουδήποτε scraper + Αναζήτηση (και με κενό εκδότη) · viewer barcode: highlight γραμμής και ομάδες ανά αρχείο",
+   "published": "2026-10-15T15:32:56"
   }
  ]
 }
