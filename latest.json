@@ -1,13 +1,13 @@
 {
- "version": "2026-10-15.6",
- "file": "update_2026-10-15.6.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-15.6.enc",
- "size": 71237220,
- "sha256": "0bb5865858d205dee696d2e15e2c99726410e9f1fab5833ce4af57701bed186b",
- "zip_size": 53427848,
- "zip_sha256": "fe35318e51d5569bc6d1cf31b145ae6529f1af66d5ba9d2fe096f200112ab582",
- "note": "Φόρμα βιβλίου: επιλογή οποιουδήποτε scraper + Αναζήτηση (και με κενό εκδότη) · viewer barcode: highlight γραμμής και ομάδες ανά αρχείο",
- "published": "2026-10-15T15:32:56",
+ "version": "2026-10-16",
+ "file": "update_2026-10-16.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-16.enc",
+ "size": 71230756,
+ "sha256": "6dc730c44d41b9d27a92492ae23ad83397f1ab38e2c91bd8b799c2cb6ae8df3c",
+ "zip_size": 53422995,
+ "zip_sha256": "623fc5b3f2578630fb141995bd063b1141e650d52e41a560dae5fd36c87dc592",
+ "note": "Οι κρίσεις AI δεν χάνονται πλέον όταν ξανατρέχει το ① (π.χ. μετά από αναζήτηση scraper/bookpoint) · εκδότης από site εκδότη σε πλατφόρμα BizCommerce (Μεταίχμιο κ.ά.) → σωστή πρόταση scraper",
+ "published": "2026-10-16T11:38:21",
  "history": [
   {
    "version": "2026-10-05",
@@ -98,6 +98,11 @@
    "version": "2026-10-15.6",
    "note": "Φόρμα βιβλίου: επιλογή οποιουδήποτε scraper + Αναζήτηση (και με κενό εκδότη) · viewer barcode: highlight γραμμής και ομάδες ανά αρχείο",
    "published": "2026-10-15T15:32:56"
+  },
+  {
+   "version": "2026-10-16",
+   "note": "Οι κρίσεις AI δεν χάνονται πλέον όταν ξανατρέχει το ① (π.χ. μετά από αναζήτηση scraper/bookpoint) · εκδότης από site εκδότη σε πλατφόρμα BizCommerce (Μεταίχμιο κ.ά.) → σωστή πρόταση scraper",
+   "published": "2026-10-16T11:38:21"
   }
  ]
 }
