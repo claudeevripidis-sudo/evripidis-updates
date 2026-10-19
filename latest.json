@@ -1,13 +1,13 @@
 {
- "version": "2026-10-16",
- "file": "update_2026-10-16.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-16.enc",
- "size": 71230756,
- "sha256": "6dc730c44d41b9d27a92492ae23ad83397f1ab38e2c91bd8b799c2cb6ae8df3c",
- "zip_size": 53422995,
- "zip_sha256": "623fc5b3f2578630fb141995bd063b1141e650d52e41a560dae5fd36c87dc592",
- "note": "Οι κρίσεις AI δεν χάνονται πλέον όταν ξανατρέχει το ① (π.χ. μετά από αναζήτηση scraper/bookpoint) · εκδότης από site εκδότη σε πλατφόρμα BizCommerce (Μεταίχμιο κ.ά.) → σωστή πρόταση scraper",
- "published": "2026-10-16T11:38:21",
+ "version": "2026-10-19.2",
+ "file": "update_2026-10-19.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-19.2.enc",
+ "size": 71346296,
+ "sha256": "3465d8ab77367bcc8fbd76fd001e1125b88848b86d339798488de00577b363ff",
+ "zip_size": 53509660,
+ "zip_sha256": "3a58aa6cc23505a85ecebd9cc287ffe2815d1dfa8e4b89b1ae0ba927eb37393b",
+ "note": "Βινύλια: χρώματα από jpc/Juno/στήλη PRODUCT BONUS, κατάσταση ανά πεδίο, πίνακας Εργασιών, K-pop → Pop, αλυσίδα πηγών ανά πεδίο",
+ "published": "2026-10-19T14:54:56",
  "history": [
   {
    "version": "2026-10-05",
@@ -103,6 +103,11 @@
    "version": "2026-10-16",
    "note": "Οι κρίσεις AI δεν χάνονται πλέον όταν ξανατρέχει το ① (π.χ. μετά από αναζήτηση scraper/bookpoint) · εκδότης από site εκδότη σε πλατφόρμα BizCommerce (Μεταίχμιο κ.ά.) → σωστή πρόταση scraper",
    "published": "2026-10-16T11:38:21"
+  },
+  {
+   "version": "2026-10-19.2",
+   "note": "Βινύλια: χρώματα από jpc/Juno/στήλη PRODUCT BONUS, κατάσταση ανά πεδίο, πίνακας Εργασιών, K-pop → Pop, αλυσίδα πηγών ανά πεδίο",
+   "published": "2026-10-19T14:54:56"
   }
  ]
 }
