@@ -1,13 +1,13 @@
 {
- "version": "2026-10-19.2",
- "file": "update_2026-10-19.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-19.2.enc",
- "size": 71346296,
- "sha256": "3465d8ab77367bcc8fbd76fd001e1125b88848b86d339798488de00577b363ff",
- "zip_size": 53509660,
- "zip_sha256": "3a58aa6cc23505a85ecebd9cc287ffe2815d1dfa8e4b89b1ae0ba927eb37393b",
- "note": "Βινύλια: χρώματα από jpc/Juno/στήλη PRODUCT BONUS, κατάσταση ανά πεδίο, πίνακας Εργασιών, K-pop → Pop, αλυσίδα πηγών ανά πεδίο",
- "published": "2026-10-19T14:54:56",
+ "version": "2026-10-21",
+ "file": "update_2026-10-21.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-21.enc",
+ "size": 71445432,
+ "sha256": "a99e2586ffcd27b94e916a8400ce3188f58bb742afa2f08abdc09c5b54c73e46",
+ "zip_size": 53584003,
+ "zip_sha256": "1a2403ec46d39c08fbd296bec2f5cfd6b67499eea2de8be27501a3d12d43e035",
+ "note": "UpdateItems: νέα ροή «🎵 Βινύλια» (πηγές × πεδία × barcodes, μόνο εξώφυλλα, αλυσίδα, Townsend) · κουμπί από τις ρυθμίσεις Βινυλίων · διόρθωση: εκδοτικά .xls (Ψυχογιός) περνούσαν την τιμή του site λόγω ISBN 14 ψηφίων",
+ "published": "2026-10-21T09:50:52",
  "history": [
   {
    "version": "2026-10-05",
@@ -108,6 +108,11 @@
    "version": "2026-10-19.2",
    "note": "Βινύλια: χρώματα από jpc/Juno/στήλη PRODUCT BONUS, κατάσταση ανά πεδίο, πίνακας Εργασιών, K-pop → Pop, αλυσίδα πηγών ανά πεδίο",
    "published": "2026-10-19T14:54:56"
+  },
+  {
+   "version": "2026-10-21",
+   "note": "UpdateItems: νέα ροή «🎵 Βινύλια» (πηγές × πεδία × barcodes, μόνο εξώφυλλα, αλυσίδα, Townsend) · κουμπί από τις ρυθμίσεις Βινυλίων · διόρθωση: εκδοτικά .xls (Ψυχογιός) περνούσαν την τιμή του site λόγω ISBN 14 ψηφίων",
+   "published": "2026-10-21T09:50:52"
   }
  ]
 }
