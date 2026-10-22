@@ -1,13 +1,13 @@
 {
- "version": "2026-10-21.2",
- "file": "update_2026-10-21.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-21.2.enc",
- "size": 71536908,
- "sha256": "430931218e8715262f6cde557fb4a78543680d15f33b7d1b0c5839b4adf2f096",
- "zip_size": 53652612,
- "zip_sha256": "60de91bf9a8b8679a264c1f4af5ffec4f262181a071775de5bef7abc99abc8d9",
- "note": "ΠΕΚ: ημ/νία 1ης έκδοσης από το newsletter · ΕΠΙΚΕΝΤΡΟ: υπογραφή χωρίς λέξη πρόζας · Scrapers: xlsx/covers και σε υποφακέλους",
- "published": "2026-10-21T13:13:59",
+ "version": "2026-10-22",
+ "file": "update_2026-10-22.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-22.enc",
+ "size": 71550840,
+ "sha256": "c13573132e6b09cd221108a9bfe424825f69359d94fc47ac2ca0e85cce38f0e9",
+ "zip_size": 53663067,
+ "zip_sha256": "2c594b84a26394ca02159958114461a05e4c4d6a31e76152dd5720b929960c39",
+ "note": "Φόρμα Συμπλήρωσης: πολλαπλή επιλογή στη λίστα + δεξί κλικ (Scrape/bookpoint/AI/Όρισε σε όλα/ISBN/Διαγραφή)",
+ "published": "2026-10-22T08:29:11",
  "history": [
   {
    "version": "2026-10-05",
@@ -118,6 +118,11 @@
    "version": "2026-10-21.2",
    "note": "ΠΕΚ: ημ/νία 1ης έκδοσης από το newsletter · ΕΠΙΚΕΝΤΡΟ: υπογραφή χωρίς λέξη πρόζας · Scrapers: xlsx/covers και σε υποφακέλους",
    "published": "2026-10-21T13:13:59"
+  },
+  {
+   "version": "2026-10-22",
+   "note": "Φόρμα Συμπλήρωσης: πολλαπλή επιλογή στη λίστα + δεξί κλικ (Scrape/bookpoint/AI/Όρισε σε όλα/ISBN/Διαγραφή)",
+   "published": "2026-10-22T08:29:11"
   }
  ]
 }
