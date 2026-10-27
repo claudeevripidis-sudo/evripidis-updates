@@ -1,13 +1,13 @@
 {
- "version": "2026-10-22",
- "file": "update_2026-10-22.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-22.enc",
- "size": 71550840,
- "sha256": "c13573132e6b09cd221108a9bfe424825f69359d94fc47ac2ca0e85cce38f0e9",
- "zip_size": 53663067,
- "zip_sha256": "2c594b84a26394ca02159958114461a05e4c4d6a31e76152dd5720b929960c39",
- "note": "Φόρμα Συμπλήρωσης: πολλαπλή επιλογή στη λίστα + δεξί κλικ (Scrape/bookpoint/AI/Όρισε σε όλα/ISBN/Διαγραφή)",
- "published": "2026-10-22T08:29:11",
+ "version": "2026-10-27",
+ "file": "update_2026-10-27.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-27.enc",
+ "size": 71493476,
+ "sha256": "b09b36dcd334c69a8855def16252036116de1d8caabdc69d46c362a95ccfda90",
+ "zip_size": 53620040,
+ "zip_sha256": "f105ac69cf414109ef6418527b357bc77a97bb1817d23e1d92ee6f7819f2cb67",
+ "note": "Περιλήψεις: καθαρισμός soft hyphens και σπασμένων γραμμών (col20/col28) · ενημέρωση refs prom-lista",
+ "published": "2026-10-27T12:21:08",
  "history": [
   {
    "version": "2026-10-05",
@@ -123,6 +123,11 @@
    "version": "2026-10-22",
    "note": "Φόρμα Συμπλήρωσης: πολλαπλή επιλογή στη λίστα + δεξί κλικ (Scrape/bookpoint/AI/Όρισε σε όλα/ISBN/Διαγραφή)",
    "published": "2026-10-22T08:29:11"
+  },
+  {
+   "version": "2026-10-27",
+   "note": "Περιλήψεις: καθαρισμός soft hyphens και σπασμένων γραμμών (col20/col28) · ενημέρωση refs prom-lista",
+   "published": "2026-10-27T12:21:08"
   }
  ]
 }
