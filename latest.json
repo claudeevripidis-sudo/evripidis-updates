@@ -1,13 +1,13 @@
 {
- "version": "2026-11-04",
- "file": "update_2026-11-04.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-04.enc",
- "size": 71539448,
- "sha256": "a5c7167c6f871af0b28dce0373423d07efecc90737a739e7df75ba85fe407f87",
- "zip_size": 53654524,
- "zip_sha256": "bac361620ec6c817797d1a9b08936a89729bdf08550bd61ffe2e2ad745e936d5",
- "note": "Adapters Αρμός/Gutenberg/Επίκεντρο/Πηγή/Παπαζήση · εξώφυλλα WordPress · βιβλίο χωρίς ISBN · έκπτωση vs τιμολογιακή στο 🏷 · υπότιτλος bookpoint · Πολιτεία // → - · ⇄ στην περίληψη · pop-up: κουμπιά ορατά, full-screen πάνω από τη γραμμή εργασιών",
- "published": "2026-11-04T13:15:46",
+ "version": "2026-11-04.2",
+ "file": "update_2026-11-04.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-04.2.enc",
+ "size": 71540620,
+ "sha256": "09b2fd28e1909e3574406d60612f5b7d200a6f0b003d33420c54735d5fa55ccc",
+ "zip_size": 53655406,
+ "zip_sha256": "d87a532047c7e1df10f55e80e4dc29fb70e9e12b9b5c52ce5f714a93bbb2d7b9",
+ "note": "Διόρθωση: τα pop-up (φόρμα διόρθωσης, Κρίση AI) ανοίγουν ξανά στο σωστό μέγεθος · νέος adapter δελτίων τύπου ΑΓΡΑ",
+ "published": "2026-11-04T14:09:35",
  "history": [
   {
    "version": "2026-10-05",
@@ -133,6 +133,11 @@
    "version": "2026-11-04",
    "note": "Adapters Αρμός/Gutenberg/Επίκεντρο/Πηγή/Παπαζήση · εξώφυλλα WordPress · βιβλίο χωρίς ISBN · έκπτωση vs τιμολογιακή στο 🏷 · υπότιτλος bookpoint · Πολιτεία // → - · ⇄ στην περίληψη · pop-up: κουμπιά ορατά, full-screen πάνω από τη γραμμή εργασιών",
    "published": "2026-11-04T13:15:46"
+  },
+  {
+   "version": "2026-11-04.2",
+   "note": "Διόρθωση: τα pop-up (φόρμα διόρθωσης, Κρίση AI) ανοίγουν ξανά στο σωστό μέγεθος · νέος adapter δελτίων τύπου ΑΓΡΑ",
+   "published": "2026-11-04T14:09:35"
   }
  ]
 }
