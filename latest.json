@@ -1,13 +1,13 @@
 {
- "version": "2026-10-27",
- "file": "update_2026-10-27.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-10-27.enc",
- "size": 71493476,
- "sha256": "b09b36dcd334c69a8855def16252036116de1d8caabdc69d46c362a95ccfda90",
- "zip_size": 53620040,
- "zip_sha256": "f105ac69cf414109ef6418527b357bc77a97bb1817d23e1d92ee6f7819f2cb67",
- "note": "Περιλήψεις: καθαρισμός soft hyphens και σπασμένων γραμμών (col20/col28) · ενημέρωση refs prom-lista",
- "published": "2026-10-27T12:21:08",
+ "version": "2026-11-04",
+ "file": "update_2026-11-04.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-04.enc",
+ "size": 71539448,
+ "sha256": "a5c7167c6f871af0b28dce0373423d07efecc90737a739e7df75ba85fe407f87",
+ "zip_size": 53654524,
+ "zip_sha256": "bac361620ec6c817797d1a9b08936a89729bdf08550bd61ffe2e2ad745e936d5",
+ "note": "Adapters Αρμός/Gutenberg/Επίκεντρο/Πηγή/Παπαζήση · εξώφυλλα WordPress · βιβλίο χωρίς ISBN · έκπτωση vs τιμολογιακή στο 🏷 · υπότιτλος bookpoint · Πολιτεία // → - · ⇄ στην περίληψη · pop-up: κουμπιά ορατά, full-screen πάνω από τη γραμμή εργασιών",
+ "published": "2026-11-04T13:15:46",
  "history": [
   {
    "version": "2026-10-05",
@@ -128,6 +128,11 @@
    "version": "2026-10-27",
    "note": "Περιλήψεις: καθαρισμός soft hyphens και σπασμένων γραμμών (col20/col28) · ενημέρωση refs prom-lista",
    "published": "2026-10-27T12:21:08"
+  },
+  {
+   "version": "2026-11-04",
+   "note": "Adapters Αρμός/Gutenberg/Επίκεντρο/Πηγή/Παπαζήση · εξώφυλλα WordPress · βιβλίο χωρίς ISBN · έκπτωση vs τιμολογιακή στο 🏷 · υπότιτλος bookpoint · Πολιτεία // → - · ⇄ στην περίληψη · pop-up: κουμπιά ορατά, full-screen πάνω από τη γραμμή εργασιών",
+   "published": "2026-11-04T13:15:46"
   }
  ]
 }
