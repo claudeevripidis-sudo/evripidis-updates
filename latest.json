@@ -1,13 +1,13 @@
 {
- "version": "2026-11-04.2",
- "file": "update_2026-11-04.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-04.2.enc",
- "size": 71540620,
- "sha256": "09b2fd28e1909e3574406d60612f5b7d200a6f0b003d33420c54735d5fa55ccc",
- "zip_size": 53655406,
- "zip_sha256": "d87a532047c7e1df10f55e80e4dc29fb70e9e12b9b5c52ce5f714a93bbb2d7b9",
- "note": "Διόρθωση: τα pop-up (φόρμα διόρθωσης, Κρίση AI) ανοίγουν ξανά στο σωστό μέγεθος · νέος adapter δελτίων τύπου ΑΓΡΑ",
- "published": "2026-11-04T14:09:35",
+ "version": "2026-11-17",
+ "file": "update_2026-11-17.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-17.enc",
+ "size": 73036344,
+ "sha256": "38609eff9a0b700bce9815f73d61d326754332ddce5b5450641234459bbc57c9",
+ "zip_size": 54777190,
+ "zip_sha256": "5b9dccf04215706706cfe383780af98067b3affb9d8a158b661ced79200b7de7",
+ "note": "Βινύλια: διακόπτης «👁 Χρώματα για δυσχρωματοψία» · έντονη επιλεγμένη γραμμή και hover",
+ "published": "2026-11-17T08:55:31",
  "history": [
   {
    "version": "2026-10-05",
@@ -138,6 +138,11 @@
    "version": "2026-11-04.2",
    "note": "Διόρθωση: τα pop-up (φόρμα διόρθωσης, Κρίση AI) ανοίγουν ξανά στο σωστό μέγεθος · νέος adapter δελτίων τύπου ΑΓΡΑ",
    "published": "2026-11-04T14:09:35"
+  },
+  {
+   "version": "2026-11-17",
+   "note": "Βινύλια: διακόπτης «👁 Χρώματα για δυσχρωματοψία» · έντονη επιλεγμένη γραμμή και hover",
+   "published": "2026-11-17T08:55:31"
   }
  ]
 }
