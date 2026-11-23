@@ -1,13 +1,13 @@
 {
- "version": "2026-11-17",
- "file": "update_2026-11-17.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-17.enc",
- "size": 73036344,
- "sha256": "38609eff9a0b700bce9815f73d61d326754332ddce5b5450641234459bbc57c9",
- "zip_size": 54777190,
- "zip_sha256": "5b9dccf04215706706cfe383780af98067b3affb9d8a158b661ced79200b7de7",
- "note": "Βινύλια: διακόπτης «👁 Χρώματα για δυσχρωματοψία» · έντονη επιλεγμένη γραμμή και hover",
- "published": "2026-11-17T08:55:31",
+ "version": "2026-11-23",
+ "file": "update_2026-11-23.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-23.enc",
+ "size": 73298424,
+ "sha256": "57bb2ea1c69d52ab08ea953330e25831c0d5a6fc3aba8e001515d6ed90cbeade",
+ "zip_size": 54973752,
+ "zip_sha256": "cf9ceb81c1d8250747c3916e6cc591433925de4359a6e52549686374d3d27312",
+ "note": "Βινύλια: ⛶ παράθυρο επεξεργαστή, πίνακας «Όλες οι προτάσεις» (ERP+πηγές), Τι άλλαξες, Opus αντί Fable, tooltips μέσα στην οθόνη, διόρθωση κολλημένου highlight στην ουρά",
+ "published": "2026-11-23T13:44:03",
  "history": [
   {
    "version": "2026-10-05",
@@ -143,6 +143,11 @@
    "version": "2026-11-17",
    "note": "Βινύλια: διακόπτης «👁 Χρώματα για δυσχρωματοψία» · έντονη επιλεγμένη γραμμή και hover",
    "published": "2026-11-17T08:55:31"
+  },
+  {
+   "version": "2026-11-23",
+   "note": "Βινύλια: ⛶ παράθυρο επεξεργαστή, πίνακας «Όλες οι προτάσεις» (ERP+πηγές), Τι άλλαξες, Opus αντί Fable, tooltips μέσα στην οθόνη, διόρθωση κολλημένου highlight στην ουρά",
+   "published": "2026-11-23T13:44:03"
   }
  ]
 }
