@@ -1,13 +1,13 @@
 {
- "version": "2026-11-23",
- "file": "update_2026-11-23.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-23.enc",
- "size": 73298424,
- "sha256": "57bb2ea1c69d52ab08ea953330e25831c0d5a6fc3aba8e001515d6ed90cbeade",
- "zip_size": 54973752,
- "zip_sha256": "cf9ceb81c1d8250747c3916e6cc591433925de4359a6e52549686374d3d27312",
- "note": "Βινύλια: ⛶ παράθυρο επεξεργαστή, πίνακας «Όλες οι προτάσεις» (ERP+πηγές), Τι άλλαξες, Opus αντί Fable, tooltips μέσα στην οθόνη, διόρθωση κολλημένου highlight στην ουρά",
- "published": "2026-11-23T13:44:03",
+ "version": "2026-11-23.2",
+ "file": "update_2026-11-23.2.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-23.2.enc",
+ "size": 73295756,
+ "sha256": "b91bf33b3e4784f3ecdb3376fcbfb21d8700396124c63bb27e279c68489086dd",
+ "zip_size": 54971753,
+ "zip_sha256": "761d13c7de4eaadc0cff96f9d540e6d02936342e8390358550ea2d9f351aaf82",
+ "note": "Βινύλια: διόρθωση μπλε επιλογής που έμενε στην προηγούμενη γραμμή της ουράς",
+ "published": "2026-11-23T13:55:21",
  "history": [
   {
    "version": "2026-10-05",
@@ -148,6 +148,11 @@
    "version": "2026-11-23",
    "note": "Βινύλια: ⛶ παράθυρο επεξεργαστή, πίνακας «Όλες οι προτάσεις» (ERP+πηγές), Τι άλλαξες, Opus αντί Fable, tooltips μέσα στην οθόνη, διόρθωση κολλημένου highlight στην ουρά",
    "published": "2026-11-23T13:44:03"
+  },
+  {
+   "version": "2026-11-23.2",
+   "note": "Βινύλια: διόρθωση μπλε επιλογής που έμενε στην προηγούμενη γραμμή της ουράς",
+   "published": "2026-11-23T13:55:21"
   }
  ]
 }
