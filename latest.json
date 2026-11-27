@@ -1,13 +1,13 @@
 {
- "version": "2026-11-23.2",
- "file": "update_2026-11-23.2.enc",
- "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-23.2.enc",
- "size": 73295756,
- "sha256": "b91bf33b3e4784f3ecdb3376fcbfb21d8700396124c63bb27e279c68489086dd",
- "zip_size": 54971753,
- "zip_sha256": "761d13c7de4eaadc0cff96f9d540e6d02936342e8390358550ea2d9f351aaf82",
- "note": "Βινύλια: διόρθωση μπλε επιλογής που έμενε στην προηγούμενη γραμμή της ουράς",
- "published": "2026-11-23T13:55:21",
+ "version": "2026-11-27",
+ "file": "update_2026-11-27.enc",
+ "url": "https://github.com/claudeevripidis-sudo/evripidis-updates/releases/download/Updates_evripidis/update_2026-11-27.enc",
+ "size": 142228004,
+ "sha256": "aa8d450ddec9f7354805fff96cf0df40e263576c76b966d112aa1d02913b7b95",
+ "zip_size": 106670930,
+ "zip_sha256": "8e35851485f53fb6d26f0180b4ba210c2716dc5986677bbc2025d6bfee3b6d2b",
+ "note": "Νέα εμφάνιση (προαιρετική, από το μενού) · αρχεία που έλειπαν από 16-11: αναγνώριση εκδοτών, ταίριασμα ERP, ειδικές εκπτώσεις, «➕ Νέος εκδότης», 🧠 ανά πεδίο, ⛽ Επίναυλος ΓΤ · BookPoint baseline 23-11 στον φάκελο «ΓΙΑ ΕΙΣΑΓΩΓΗ»",
+ "published": "2026-11-27T14:44:43",
  "history": [
   {
    "version": "2026-10-05",
@@ -153,6 +153,11 @@
    "version": "2026-11-23.2",
    "note": "Βινύλια: διόρθωση μπλε επιλογής που έμενε στην προηγούμενη γραμμή της ουράς",
    "published": "2026-11-23T13:55:21"
+  },
+  {
+   "version": "2026-11-27",
+   "note": "Νέα εμφάνιση (προαιρετική, από το μενού) · αρχεία που έλειπαν από 16-11: αναγνώριση εκδοτών, ταίριασμα ERP, ειδικές εκπτώσεις, «➕ Νέος εκδότης», 🧠 ανά πεδίο, ⛽ Επίναυλος ΓΤ · BookPoint baseline 23-11 στον φάκελο «ΓΙΑ ΕΙΣΑΓΩΓΗ»",
+   "published": "2026-11-27T14:44:43"
   }
  ]
 }
